@@ -1,6 +1,6 @@
 # monemone
 
-A project made by Jeremiah, Jovanca Elred Bonfilio, Jeffrey, and Stefan Santoso
+A project made by Stefan Santoso, Jovanca Elred Bonfilio, Jeffrey, and Jeremiah
 
 ## Getting Started
 
