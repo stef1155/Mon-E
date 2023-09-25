@@ -1,0 +1,16 @@
+com.example.mon_e.app-jetified-window-java-1.0.0-beta04-0 C:\Users\Jeremiah\.gradle\caches\transforms-3\128f7549c3f81d242aa9f589ae0024c0\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.mon_e.app-core-1.6.0-1 C:\Users\Jeremiah\.gradle\caches\transforms-3\6be47b444a85e07a3d357c809ce146d4\transformed\core-1.6.0\res
+com.example.mon_e.app-jetified-window-1.0.0-beta04-2 C:\Users\Jeremiah\.gradle\caches\transforms-3\af57bbf1db2f2efb49b62e9468110ecb\transformed\jetified-window-1.0.0-beta04\res
+com.example.mon_e.app-jetified-annotation-experimental-1.1.0-3 C:\Users\Jeremiah\.gradle\caches\transforms-3\d4596ac79b815af659049f699c8e05bf\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.mon_e.app-debug-4 C:\flutter_dev\projects\monemone\android\app\src\debug\res
+com.example.mon_e.app-main-5 C:\flutter_dev\projects\monemone\android\app\src\main\res
+com.example.mon_e.app-pngs-6 C:\flutter_dev\projects\monemone\build\app\generated\res\pngs\debug
+com.example.mon_e.app-resValues-7 C:\flutter_dev\projects\monemone\build\app\generated\res\resValues\debug
+com.example.mon_e.app-rs-8 C:\flutter_dev\projects\monemone\build\app\generated\res\rs\debug
+com.example.mon_e.app-mergeDebugResources-9 C:\flutter_dev\projects\monemone\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.mon_e.app-mergeDebugResources-10 C:\flutter_dev\projects\monemone\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.mon_e.app-merged_res-11 C:\flutter_dev\projects\monemone\build\app\intermediates\merged_res\debug
+com.example.mon_e.app-packaged_res-12 C:\flutter_dev\projects\monemone\build\file_picker\intermediates\packaged_res\debug
+com.example.mon_e.app-packaged_res-13 C:\flutter_dev\projects\monemone\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.mon_e.app-packaged_res-14 C:\flutter_dev\projects\monemone\build\path_provider_android\intermediates\packaged_res\debug
+com.example.mon_e.app-packaged_res-15 C:\flutter_dev\projects\monemone\build\sqflite\intermediates\packaged_res\debug
